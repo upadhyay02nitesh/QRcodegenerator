@@ -7,7 +7,7 @@ from pyqrcode import QRCode
 
 # String which represents the QR code
 
-s = "https://www.linkedin.com/in/nitesh02upadhyayay/"
+s = "https://www.linkedin.com/in/nitesh02upadhyayaya/"
 
 
 # Generate QR code
